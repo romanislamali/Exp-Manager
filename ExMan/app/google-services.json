@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767943757853",
+    "project_id": "exman-b58cf",
+    "storage_bucket": "exman-b58cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767943757853:android:c2c8d9a83a17b8933936f4",
+        "android_client_info": {
+          "package_name": "com.rodev.exman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767943757853-3v81195lq9n13lvl51td1mv3biat6lo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE1v186jxEFiyNnwh_CmMiSOyQlc9_WuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767943757853-3v81195lq9n13lvl51td1mv3biat6lo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
